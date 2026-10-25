@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KabKotaRetrofitApp</string>
+    <string name="kabkota_name">Nama Kabupaten/Kota</string>
+    <string name="image_detail_kab_kota">Image Detail Kab/Kota</string>
+    <string name="pusat_pemerintahan">Pusat Pemerintahan</string>
+    <string name="bupati_walikota">Bupati/Walikota</string>
+    <string name="tanggal_berdiri">Tanggal Berdiri</string>
+    <string name="luas_wilayah">Luas Wilayah (km2)</string>
+    <string name="jumlah_penduduk">Jumlah Penduduk (2020)</string>
+    <string name="jumlah_kecamatan">Jumlah Kecamatan</string>
+    <string name="jumlah_kelurahan">Jumlah Kelurahan</string>
+    <string name="jumlah_desa">Jumlah Desa</string>
+    <string name="deskripsi">Deskripsi Singkat</string>
+    <string name="tampilkan_peta_wilayah">Tampilkan Peta Wilayah</string>
+    <string name="image_view_peta">Image View Peta</string>
+
+</resources>
